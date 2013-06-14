@@ -1,0 +1,10 @@
+{
+  "name": "fibonacci-client",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Andy Moon",
+  "dependencies": {
+        "amqp": "~0.1.3",
+        "node-uuid": "1.4.0"
+  }
+}
